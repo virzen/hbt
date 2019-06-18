@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "ShellInterface/1.0.0": {
+      "Core/1.0.0": {
         "dependencies": {
-          "Core": "1.0.0",
           "FSharp.Core": "4.6.2"
         },
         "runtime": {
-          "ShellInterface.dll": {}
+          "Core.dll": {}
         }
       },
       "FSharp.Core/4.6.2": {
@@ -66,19 +65,11 @@
             "locale": "zh-Hant"
           }
         }
-      },
-      "Core/1.0.0": {
-        "dependencies": {
-          "FSharp.Core": "4.6.2"
-        },
-        "runtime": {
-          "Core.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "ShellInterface/1.0.0": {
+    "Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -89,11 +80,6 @@
       "sha512": "sha512-/waJ3a7u7MjFOGnXOfokbG1N1FH7VCmP3Fw1tJ8Q75kIj60LYBL3eYzab9hDimL5E21uhQ/1wf04M3dRAYemlw==",
       "path": "fsharp.core/4.6.2",
       "hashPath": "fsharp.core.4.6.2.nupkg.sha512"
-    },
-    "Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

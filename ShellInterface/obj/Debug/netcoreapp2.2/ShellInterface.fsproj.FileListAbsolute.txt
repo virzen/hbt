@@ -8,3 +8,6 @@
 /home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.AssemblyInfo.fs
 /home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.dll
 /home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.pdb
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/Core.dll
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/Core.pdb
+/home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.fsproj.CopyComplete

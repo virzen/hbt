@@ -1,0 +1,8 @@
+/home/virzen/Workspace/hbt/Core/bin/Debug/netcoreapp2.2/Core.deps.json
+/home/virzen/Workspace/hbt/Core/bin/Debug/netcoreapp2.2/Core.dll
+/home/virzen/Workspace/hbt/Core/bin/Debug/netcoreapp2.2/Core.pdb
+/home/virzen/Workspace/hbt/Core/obj/Debug/netcoreapp2.2/Core.fsprojAssemblyReference.cache
+/home/virzen/Workspace/hbt/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfoInputs.cache
+/home/virzen/Workspace/hbt/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfo.fs
+/home/virzen/Workspace/hbt/Core/obj/Debug/netcoreapp2.2/Core.dll
+/home/virzen/Workspace/hbt/Core/obj/Debug/netcoreapp2.2/Core.pdb
