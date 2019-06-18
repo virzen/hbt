@@ -1,0 +1,10 @@
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/ShellInterface.deps.json
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/ShellInterface.runtimeconfig.json
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/ShellInterface.runtimeconfig.dev.json
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/ShellInterface.dll
+/home/virzen/Workspace/hbt/ShellInterface/bin/Debug/netcoreapp2.2/ShellInterface.pdb
+/home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.fsprojAssemblyReference.cache
+/home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.AssemblyInfoInputs.cache
+/home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.AssemblyInfo.fs
+/home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.dll
+/home/virzen/Workspace/hbt/ShellInterface/obj/Debug/netcoreapp2.2/ShellInterface.pdb
